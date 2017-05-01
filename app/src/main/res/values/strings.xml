@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">Interface_resolution_equation</string>
+    <string name="TrouverY">TrouverY</string>
+    <string name="TrouverZéros">TrouverZéros</string>
+    <string name="TrouverX">TrouverX</string>
+    <string name="Simplification">Simplification</string>
+    <string name="Factorisation">Factorisation</string>
+    <string name="Deriver">Deriver</string>
+    <string name="Integrer">Integrer</string>
+</resources>
